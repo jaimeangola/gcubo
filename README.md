@@ -1,7 +1,8 @@
 # Gcubo - Geospatial Analysis QUBO
 ## Experimental plugin for Quantum Simulated Annealing Catchment delineation
 
-This GPLv3 software belongs to an active research described in the paper.
+This GPLv3 software belongs to an active research described in the paper:
+Anguiano Olarra, Jaime, Catchment delineation using Quantum Annealing: a real world application. Available at SSRN: https://ssrn.com/abstract=6815953 or http://dx.doi.org/10.2139/ssrn.6815953
 
 Directly download and open the interactive HTML file in your browser to have an immediate taste of the results, this is highly recommended for those not interested in what goes under the hood but only how it may help them in their GIS or decision making work.
 
