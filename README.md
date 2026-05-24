@@ -12,5 +12,5 @@ Directly download and open the interactive HTML file in your browser to have an 
 
 The notebook has been polished by ChatGPT but has still not being fully matched to the notation used in the paper (I guess I am doing this right now), nevertheless thus does not affect the code as the results don't depend on the notation. 
 
-(c) 2026,Jaime Anguiano Olarra
+(c) 2026, Jaime Anguiano Olarra
 jaimeangola.github@gmail.com
